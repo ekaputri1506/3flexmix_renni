@@ -7,4 +7,4 @@ I designed and created this analysis using R languange and html.
 
 
 E-mail: renniekaputri15@gmail.com </br>
-Phone: +62-81905146181 (Indonesia)
+Phone: +62-81905146181
